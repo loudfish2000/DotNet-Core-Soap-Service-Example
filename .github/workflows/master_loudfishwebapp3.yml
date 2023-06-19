@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'loudfishWebApp3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2720BA2D241345A5BEC2ADC410C736E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AF71C5F1ABB4452AFFD23E0A36A18FE }}
           package: .
